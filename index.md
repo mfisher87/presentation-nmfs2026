@@ -19,6 +19,8 @@ format:
 
 ## :wave: Hi, I'm Matt! GitHub: `@mfisher87` {.smaller}
 
+:::::::::columns
+::::::{.column width=50%}
 :::evenly-spaced
 :computer: Research Software Engineer ([RSE](https://us-rse.org/))
 
@@ -36,6 +38,12 @@ more!
 :open_hands: :open_book: :brain:
 :seedling: :notes: :drum: :musical_keyboard: :dog:
 :::
+::::::
+
+::::::{.column width=50%}
+![[mfisher87.github.io/presentation-nmfs2026](https://mfisher87.github.io/presentation-nmfs2026)](/assets/images/qr.svg){width=100%}
+::::::
+:::::::::
 
 
 :::notes
