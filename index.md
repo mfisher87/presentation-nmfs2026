@@ -22,7 +22,8 @@ format:
 :::::::::columns
 ::::::{.column width=50%}
 :::evenly-spaced
-:computer: Research Software Engineer ([RSE](https://us-rse.org/))
+:computer: Research Software Engineer ([RSE](https://us-rse.org/)), Community Manager @ [Schmidt DSE, UC
+Berkeley](https://dse.berkeley.edu/)
 
 :people_holding_hands: Community Engagement Manager
 
@@ -55,6 +56,11 @@ musical instruments, dogs!
 # :earth_asia: GeoJupyter community overview
 
 :link: [geojupyter.org](https://geojupyter.org/)
+
+
+:::notes
+The bulk of my role at Schmidt Center for Data Science and Environment is leading the GeoJupyter project.
+:::
 
 
 ## GeoJupyter community overview {.smaller}
