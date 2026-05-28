@@ -1,0 +1,8 @@
+project:
+  type: "website"
+
+website:
+  title: "GeoJupyter @ NMFS HackDay 2026-05-29"
+  site-url: "https://mfisher87.github.io/presentation-nmfs2026"
+  repo-url: &repo-url "https://github.com/mfisher87/presentation-nmfs2026"
+  repo-actions: ["edit", "issue"]
