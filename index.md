@@ -144,6 +144,59 @@ Many players!!!
 ![A screenshot of JupyterGIS](/assets/images/jupytergis-screenshot.jpg)
 
 
+## :handshake: Collaborate
+
+![Two users collaborating in real-time on a JupyterGIS project ([QuantStack](https://quantstack.net/slides))](/assets/images/jupytergis-collab-cursors.gif){width=100%}
+
+:::notes
+Thanks again to the modular Jupyter architecture, we can leverage
+the `jupyter-collaboration` extension, which enables real-time collaboration on
+Notebooks, to enable real-time collaboration on a map.
+
+Here you can see two users' cursors (emphasized for visibility) on the same map.
+:::
+
+
+## :handshake: Collaborate: Follow a user
+
+![One user following another in real-time on a JupyterGIS project ([QuantStack](https://quantstack.net/slides))](/assets/images/jupytergis-collab-follow.gif){width=100%}
+
+:::notes
+In this graphic, one user is following another user's viewport activity in real time.
+:::
+
+
+## :handshake: Collaborate: Edit together
+
+![Two users editing a shared map ([QuantStack](https://quantstack.net/slides))](/assets/images/jupytergis-collab-edit.gif){width=100%}
+
+:::notes
+Here you can see collaborators editing a shared map.
+:::
+
+
+## :handshake: Collaborate: Annotations
+
+![Two users having a conversation with spatial context through annotations ([QuantStack](https://quantstack.net/slides))](/assets/images/jupytergis-collab-annotate.gif){width=100%}
+
+:::notes
+Here you can see collaborators having a spatially aware conversation, like
+comments in Google Docs.
+:::
+
+
+## :crystal_ball: Discover data with STAC (WIP)
+
+![Browsing a STAC catalog in JupyterGIS ([eo science for society blog](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/))](https://eo4society.esa.int/wp-content/uploads/2025/10/screenshot-5.png)
+
+:::notes
+We can discover data using Spatio Temporal Asset Catalogs, or "STAC catalogs",
+a modern standard for computer interface with data catalogs.
+
+This is a work in progress that will continue to evolve over time!
+:::
+
+
 ## Jupyter Tiler
 
 ![A diagram of `jupyter-tiler`](/assets/images/jupyter-tiler-diagram.svg)
@@ -191,6 +244,15 @@ Or, even cooler...
 <br />
 :::
 
+:::notes
+* Layer gallery (add basemap + chlorophyll)
+* Add earthquakes layer
+* Inspect data points
+* Add france boundaries layer
+* Compute convex hulls
+* Grammar of graphics
+:::
+
 
 ## :thought_balloon: Reproducible viz -> Notebook workflows
 
@@ -229,11 +291,9 @@ Goal: Make it more intuitive for new community members to get started by self-se
 :::
 
 
-## :thought_balloon: Discussion: Funding :money_with_wings:
+## :thought_balloon: What's your pet peeve working with geo data in Jupyter?
 
 ::::::evenly-spaced
-Problem: Too much to do, never enough capacity!
-
 :::{style="font-size: 5em"}
 :ear:
 :::
