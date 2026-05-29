@@ -232,15 +232,22 @@ This is a work in progress that will continue to evolve over time!
 
 :::evenly-spaced
 :open_book: **"Scrollytelling"**
+([initiative](https://github.com/geojupyter/initiatives/issues/19))
 
-:robot: GeoAI :thinking: ([prototype](https://github.com/geojupyter/jupyter-geoagent),
+:robot: GeoAI :thinking:
+([initiative](https://github.com/geojupyter/initiatives/issues/14), [prototype](https://github.com/geojupyter/jupyter-geoagent),
 [talk](https://www.youtube.com/watch?v=_5yuXU5salY))
 
-:mountain: Reproducible "geoprocessing" (following lessons learned from interns' exploration)
+:rock: Richer geospatial primitives for Python
+([initiative](https://github.com/geojupyter/initiatives/issues/18))
 
-:art: Web symbology editing component
+:mountain: Reproducible "geoprocessing" (following lessons learned from interns' exploration) ([initiative](https://github.com/geojupyter/initiatives/issues/3))
+
+:art: Reusable symbology editor component?
+([initiative](https://github.com/geojupyter/initiatives/issues/8))
 
 :teacher: Example datasets for education
+([initiative](https://github.com/geojupyter/initiatives/issues/9))
 :::
 
 
