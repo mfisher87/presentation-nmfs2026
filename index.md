@@ -245,6 +245,8 @@ This is a work in progress that will continue to evolve over time!
 
 ## :boom: :thought_balloon: JupyterGIS
 
+:bug: You might see bugs :face_with_peeking_eye:
+
 :::evenly-spaced
 ```bash
 uv run --with jupyterlab --with jupytergis jupyter lab
