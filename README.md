@@ -1,8 +1,9 @@
 # GeoJupyter presentation at NMFS HackHour 2025
 
-<TODO: Link>
+https://mfisher87.github.io/presentation-nmfs2026
 
-<TODO: Intended length of talk>
+This talk is for a 1 hour meeting, and the intent is to leave time for discussion.
+Estimated talk length is 35-45 minutes.
 
 
 ## Usage
