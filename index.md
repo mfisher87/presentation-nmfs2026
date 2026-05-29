@@ -66,12 +66,6 @@ The bulk of my role at Schmidt Center for Data Science and Environment is leadin
 ## GeoJupyter community overview {.smaller}
 
 :::::::::columns
-::::::{.column width="48%"}
-![GeoJupyter is **not** software; it’s a **community** which will build many things together!](/assets/images/venn-diagram.svg)
-::::::
-
-::::::{.column width="4%"}
-::::::
 
 ::::::{.column width="48%"}
 
@@ -91,6 +85,14 @@ to enable more people to confidently engage with geospatial data.
 Many players!!!
 :::
 ::::::
+
+::::::{.column width="4%"}
+::::::
+
+::::::{.column width="48%"}
+![GeoJupyter is **not** software; it’s a **community** which will build many things together!](/assets/images/venn-diagram.svg)
+::::::
+
 :::::::::
 
 
