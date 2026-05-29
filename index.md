@@ -233,7 +233,8 @@ This is a work in progress that will continue to evolve over time!
 :::evenly-spaced
 :open_book: **"Scrollytelling"**
 
-:robot: GeoAI :thinking:
+:robot: GeoAI :thinking: ([prototype](https://github.com/geojupyter/jupyter-geoagent),
+[talk](https://www.youtube.com/watch?v=_5yuXU5salY))
 
 :mountain: Reproducible "geoprocessing" (following lessons learned from interns' exploration)
 
